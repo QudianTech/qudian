@@ -4,7 +4,7 @@ Donate link:
 Tags: social reading, mobile reading
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 0.1.1
+Stable tag: 0.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,14 +17,14 @@ Qudian is similar to social bookmarking services with addition of keyword select
 == Installation ==
 
 1. Search for qudian in `http://wordpress.org/extend/plugins` and download the plugin as zip file
-2. login to `wp-admin`, choose plugin section, upload the zip file, and install the qudian plugin
-3. Qudian should be up and running automatically
+1. login to `wp-admin`, choose plugin section, upload the zip file, and install the qudian plugin
+1. Qudian should be up and running automatically
 
 Alternatively, one can try the following steps.
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
 
 == Frequently asked questions ==
 
