@@ -10,8 +10,6 @@ Author URI: http://qudian.so
 
 function loadQfo () {
   wp_enqueue_style('style', plugins_url('css/qfo-v0.3.css', __FILE__), false);
-  wp_enqueue_script('qfo', plugins_url('js/qfo-v0.3.min.js', __FILE__ ), false);
-  wp_enqueue_script('qlet', plugins_url('js/qlet-v0.3.min.js', __FILE__ ), false);
   wp_enqueue_script('inline', plugins_url('inline.js', __FILE__ ), false);
 }
 
