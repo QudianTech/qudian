@@ -4,7 +4,7 @@ Donate link:
 Tags: social reading, mobile reading
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 0.2.5
+Stable tag: 0.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,7 +38,6 @@ An answer to that question.
 2. 
 
 == Changelog ==
-
 
 
 == Upgrade notice ==
